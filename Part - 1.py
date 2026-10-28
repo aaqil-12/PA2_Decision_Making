@@ -1,4 +1,13 @@
 
+import builtins
+
+trace_file = open("Part1_Trace.txt", "w", encoding="utf-8")
+
+def print(*args, **kwargs):
+    builtins.print(*args, **kwargs)
+    builtins.print(*args, **kwargs, file=trace_file)
+
+
 states = [
     'RU_8p',
     'TU_10p', 'RU_10p', 'RD_10p',
@@ -138,3 +147,5 @@ for s in states:
     best_action = max(action_values, key=action_values.get)
 
     print(f"{s:<10} -> {best_action}")
+
+trace_file.close()

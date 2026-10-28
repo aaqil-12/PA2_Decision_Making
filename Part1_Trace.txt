@@ -1,0 +1,99 @@
+
+ITERATION 1
+State: RU_8p    | Previous Value: 0.0000 | New Value: 2.0000 | Action Values: [P: 2.0000, R: 0.0000, S: -1.0000] | Selected Action: P
+State: TU_10p   | Previous Value: 0.0000 | New Value: 2.0000 | Action Values: [P: 2.0000, R: 0.0000] | Selected Action: P
+State: RU_10p   | Previous Value: 0.0000 | New Value: 2.0000 | Action Values: [R: 0.0000, P: 2.0000, S: -1.0000] | Selected Action: P
+State: RD_10p   | Previous Value: 0.0000 | New Value: 2.0000 | Action Values: [R: 0.0000, P: 2.0000] | Selected Action: P
+State: RU_8a    | Previous Value: 0.0000 | New Value: 2.0000 | Action Values: [P: 2.0000, R: 0.0000, S: -1.0000] | Selected Action: P
+State: RD_8a    | Previous Value: 0.0000 | New Value: 2.0000 | Action Values: [R: 0.0000, P: 2.0000] | Selected Action: P
+State: TU_10a   | Previous Value: 0.0000 | New Value: -1.0000 | Action Values: [any: -1.0000] | Selected Action: any
+State: RU_10a   | Previous Value: 0.0000 | New Value: 0.0000 | Action Values: [any: 0.0000] | Selected Action: any
+State: RD_10a   | Previous Value: 0.0000 | New Value: 4.0000 | Action Values: [any: 4.0000] | Selected Action: any
+State: TD_10a   | Previous Value: 0.0000 | New Value: 3.0000 | Action Values: [any: 3.0000] | Selected Action: any
+
+Maximum Change: 4.000000
+
+ITERATION 2
+State: RU_8p    | Previous Value: 2.0000 | New Value: 3.9800 | Action Values: [P: 3.9800, R: 1.9800, S: 0.9800] | Selected Action: P
+State: TU_10p   | Previous Value: 2.0000 | New Value: 2.0000 | Action Values: [P: 2.0000, R: 1.9800] | Selected Action: P
+State: RU_10p   | Previous Value: 2.0000 | New Value: 2.9900 | Action Values: [R: 1.9800, P: 2.9900, S: 0.9800] | Selected Action: P
+State: RD_10p   | Previous Value: 2.0000 | New Value: 4.9700 | Action Values: [R: 1.9800, P: 4.9700] | Selected Action: P
+State: RU_8a    | Previous Value: 2.0000 | New Value: 2.9600 | Action Values: [P: 1.0100, R: 0.0000, S: 2.9600] | Selected Action: S
+State: RD_8a    | Previous Value: 2.0000 | New Value: 4.9700 | Action Values: [R: 3.9600, P: 4.9700] | Selected Action: P
+State: TU_10a   | Previous Value: -1.0000 | New Value: -1.0000 | Action Values: [any: -1.0000] | Selected Action: any
+State: RU_10a   | Previous Value: 0.0000 | New Value: 0.0000 | Action Values: [any: 0.0000] | Selected Action: any
+State: RD_10a   | Previous Value: 4.0000 | New Value: 4.0000 | Action Values: [any: 4.0000] | Selected Action: any
+State: TD_10a   | Previous Value: 3.0000 | New Value: 3.0000 | Action Values: [any: 3.0000] | Selected Action: any
+
+Maximum Change: 2.970000
+
+ITERATION 3
+State: RU_8p    | Previous Value: 3.9800 | New Value: 3.9800 | Action Values: [P: 3.9800, R: 2.9601, S: 3.9203] | Selected Action: P
+State: TU_10p   | Previous Value: 2.0000 | New Value: 2.9304 | Action Values: [P: 2.0000, R: 2.9304] | Selected Action: R
+State: RU_10p   | Previous Value: 2.9900 | New Value: 3.9203 | Action Values: [R: 2.9304, P: 3.4652, S: 3.9203] | Selected Action: S
+State: RD_10p   | Previous Value: 4.9700 | New Value: 6.4402 | Action Values: [R: 4.9203, P: 6.4402] | Selected Action: P
+State: RU_8a    | Previous Value: 2.9600 | New Value: 2.9600 | Action Values: [P: 1.0100, R: 0.0000, S: 2.9600] | Selected Action: S
+State: RD_8a    | Previous Value: 4.9700 | New Value: 4.9700 | Action Values: [R: 3.9600, P: 4.9700] | Selected Action: P
+State: TU_10a   | Previous Value: -1.0000 | New Value: -1.0000 | Action Values: [any: -1.0000] | Selected Action: any
+State: RU_10a   | Previous Value: 0.0000 | New Value: 0.0000 | Action Values: [any: 0.0000] | Selected Action: any
+State: RD_10a   | Previous Value: 4.0000 | New Value: 4.0000 | Action Values: [any: 4.0000] | Selected Action: any
+State: TD_10a   | Previous Value: 3.0000 | New Value: 3.0000 | Action Values: [any: 3.0000] | Selected Action: any
+
+Maximum Change: 1.470150
+
+ITERATION 4
+State: RU_8p    | Previous Value: 3.9800 | New Value: 5.3757 | Action Values: [P: 4.9011, R: 3.8811, S: 5.3757] | Selected Action: S
+State: TU_10p   | Previous Value: 2.9304 | New Value: 2.9304 | Action Values: [P: 2.0000, R: 2.9304] | Selected Action: R
+State: RU_10p   | Previous Value: 3.9203 | New Value: 3.9203 | Action Values: [R: 2.9304, P: 3.4652, S: 3.9203] | Selected Action: S
+State: RD_10p   | Previous Value: 6.4402 | New Value: 6.4402 | Action Values: [R: 4.9203, P: 6.4402] | Selected Action: P
+State: RU_8a    | Previous Value: 2.9600 | New Value: 2.9600 | Action Values: [P: 1.0100, R: 0.0000, S: 2.9600] | Selected Action: S
+State: RD_8a    | Previous Value: 4.9700 | New Value: 4.9700 | Action Values: [R: 3.9600, P: 4.9700] | Selected Action: P
+State: TU_10a   | Previous Value: -1.0000 | New Value: -1.0000 | Action Values: [any: -1.0000] | Selected Action: any
+State: RU_10a   | Previous Value: 0.0000 | New Value: 0.0000 | Action Values: [any: 0.0000] | Selected Action: any
+State: RD_10a   | Previous Value: 4.0000 | New Value: 4.0000 | Action Values: [any: 4.0000] | Selected Action: any
+State: TD_10a   | Previous Value: 3.0000 | New Value: 3.0000 | Action Values: [any: 3.0000] | Selected Action: any
+
+Maximum Change: 1.395749
+
+ITERATION 5
+State: RU_8p    | Previous Value: 5.3757 | New Value: 5.3757 | Action Values: [P: 4.9011, R: 3.8811, S: 5.3757] | Selected Action: S
+State: TU_10p   | Previous Value: 2.9304 | New Value: 2.9304 | Action Values: [P: 2.0000, R: 2.9304] | Selected Action: R
+State: RU_10p   | Previous Value: 3.9203 | New Value: 3.9203 | Action Values: [R: 2.9304, P: 3.4652, S: 3.9203] | Selected Action: S
+State: RD_10p   | Previous Value: 6.4402 | New Value: 6.4402 | Action Values: [R: 4.9203, P: 6.4402] | Selected Action: P
+State: RU_8a    | Previous Value: 2.9600 | New Value: 2.9600 | Action Values: [P: 1.0100, R: 0.0000, S: 2.9600] | Selected Action: S
+State: RD_8a    | Previous Value: 4.9700 | New Value: 4.9700 | Action Values: [R: 3.9600, P: 4.9700] | Selected Action: P
+State: TU_10a   | Previous Value: -1.0000 | New Value: -1.0000 | Action Values: [any: -1.0000] | Selected Action: any
+State: RU_10a   | Previous Value: 0.0000 | New Value: 0.0000 | Action Values: [any: 0.0000] | Selected Action: any
+State: RD_10a   | Previous Value: 4.0000 | New Value: 4.0000 | Action Values: [any: 4.0000] | Selected Action: any
+State: TD_10a   | Previous Value: 3.0000 | New Value: 3.0000 | Action Values: [any: 3.0000] | Selected Action: any
+
+Maximum Change: 0.000000
+FINAL RESULTS
+
+Total Iterations: 5
+
+Final State Values:
+RU_8p      : 5.3757
+TU_10p     : 2.9304
+RU_10p     : 3.9203
+RD_10p     : 6.4402
+RU_8a      : 2.9600
+RD_8a      : 4.9700
+TU_10a     : -1.0000
+RU_10a     : 0.0000
+RD_10a     : 4.0000
+TD_10a     : 3.0000
+Terminal   : 0.0000
+
+Final Optimal Policy:
+RU_8p      -> S
+TU_10p     -> R
+RU_10p     -> S
+RD_10p     -> P
+RU_8a      -> S
+RD_8a      -> P
+TU_10a     -> any
+RU_10a     -> any
+RD_10a     -> any
+TD_10a     -> any
+Terminal   -> No Action

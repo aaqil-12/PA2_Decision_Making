@@ -1,0 +1,44 @@
+# PA2: Solving Markov Decision Processes
+
+## Team Members
+- Muqaddam Aaqil Sheriff
+- Nairuti Vora
+
+## Requirements
+- Python 3
+- No additional packages required
+
+## Part 1: Value Iteration
+
+**Run:**
+
+`python3 "Part - 1.py"`
+
+The program calculates the optimal state values and policy.
+
+**Output:**
+- Final state values and optimal policy in the terminal
+- `Part1_Trace.txt` containing the execution trace
+
+## Part 2: Q-Learning
+
+**Run:**
+
+`python3 "Part - 2.py"`
+
+**Default Parameters:**
+- Learning rate: 0.1
+- Discount factor: 0.99
+- Epsilon: 0.2
+- Convergence threshold: 0.001
+- Random seed: 42
+
+**Output:**
+- Final Q-values and optimal policy in the terminal
+- `Part2_Trace.txt` containing the execution trace
+
+**To run Part 2 with a different random seed:**
+
+`python3 "Part - 2.py" 123`
+
+Both programs generate their trace files automatically.

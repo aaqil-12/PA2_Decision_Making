@@ -1,4 +1,3 @@
-
 import builtins
 
 trace_file = open("Part1_Trace.txt", "w", encoding="utf-8")
